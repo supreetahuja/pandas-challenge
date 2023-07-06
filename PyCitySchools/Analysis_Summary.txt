@@ -1,0 +1,19 @@
+Based on the Data Analysed, the summary can be as:
+
+1. School Type: The schools in the dataset are categorized into two types: District and Charter.
+
+2. Total Students: The total number of students enrolled in each school varies, ranging from 427 to 4,976.
+
+3. Total School Budget: The budget allocated to each school varies, with a range from $248,087 to $3,124,928.
+
+4. Per Student Budget: The budget per student is calculated by dividing the total school budget by the total number of students.
+
+5. Average Math Score: The average math scores range from 76.63 to 83.84 across the schools.
+
+6. Average Reading Score: The average reading scores range from 80.74 to 84.04 across the schools.
+
+7. Math % Passing: The percentage of students passing math ranges from 65.68% to 94.59% across the schools.
+
+8. Reading % Passing: The percentage of students passing reading ranges from 79.30% to 97.04% across the schools.
+
+9. Overall Passing %: The overall passing percentage, which considers both math and reading, ranges from 52.99% to 91.33% across the schools.

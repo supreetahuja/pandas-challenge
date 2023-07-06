@@ -1,0 +1,12 @@
+2 Conclusions drawn from the calculations performed:
+
+Charter vs. District: 
+
+A comparison between two School types shows notable differences in academic performance. Charter schools, such as Cabrera High School, Griffin High School, and Holden High School, tend to have higher average scores and passing percentages compared to district schools like Bailey High School, Figueroa High School, and Hernandez High School.
+Charter schools generally have higher average scores, passing percentages, and overall passing percentages compared to district schools. For example, Cabrera High School (a charter school) has an average math score of 83.06 and a passing math percentage of 94.13%, while Bailey High School (a district school) has an average Math score of 77.05 and a passing Math percentage of 66.68%.
+This suggests that the school type, whether charter or district, can have an impact on student performance.
+
+School Size and Performance: 
+
+When looking at the school size, it can be observed that smaller schools tend to have higher average scores and passing percentages compared to larger schools. For example, schools like Holden High School and Pena High School, which have smaller student populations, show higher average scores and passing percentages compared to larger schools like Bailey High School and Rodriguez High School.
+There is a relationship between school size and academic performance. Smaller schools, such as Griffin High School and Pena High School, have higher average math and reading scores, as well as higher passing percentages in math, reading, and overall. In contrast, larger schools like Bailey High School and Johnson High School have lower average scores and passing percentages. This suggests that smaller schools may offer a more conducive learning environment for students.
